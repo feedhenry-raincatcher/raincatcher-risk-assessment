@@ -1,6 +1,6 @@
 {
   "name": "fh-wfm-risk-assessment",
-  "version": "0.0.13",
+  "version": "0.0.14-alpha.1",
   "description": "A risk assessment module for WFM",
   "main": "lib/angular/risk-assessment-ng",
   "scripts": {
@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "4.14.0",
-    "fh-wfm-signature": "0.0.14",
+    "fh-wfm-signature": "0.0.15-alpha.1",
     "lodash": "4.7.0"
   },
   "devDependencies": {
