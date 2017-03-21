@@ -1,6 +1,6 @@
 {
   "name": "fh-wfm-risk-assessment",
-  "version": "0.0.15",
+  "version": "0.0.17",
   "description": "A risk assessment module for WFM",
   "main": "lib/angular/risk-assessment-ng",
   "repository": {
@@ -19,7 +19,7 @@
   "author": "Brian Leathem",
   "license": "MIT",
   "dependencies": {
-    "express": "4.14.0",
+    "express": "4.15.2",
     "fh-wfm-signature": "0.0.15",
     "lodash": "4.7.0"
   },
