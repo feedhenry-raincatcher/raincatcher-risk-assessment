@@ -1,6 +1,6 @@
-# FeedHenry WFM risk-assessment
+# FeedHenry RainCatcher risk-assessment
 
-A vehicle-inspection module for FeedHenry WFM providing a set of directives. The following items of a risk assessment can be collected this module :
+A vehicle-inspection module for FeedHenry RainCatcher providing a set of directives. The following items of a risk assessment can be collected this module :
 - Completed / uncompleted
 - Signature capture
 
@@ -16,7 +16,7 @@ angular.module('app', [
 
 #### Dependency
 
-This module also needs the the [wfm-signature](https://github.com/feedhenry-staff/wfm-signature) to work properly :
+This module also needs the the [wfm-signature](https://github.com/feedhenry-raincatcher/raincatcher-signature) to work properly :
 ```javascript
 angular.module('app', [
 , require('fh-wfm-signature')
