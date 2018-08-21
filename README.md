@@ -16,7 +16,7 @@ angular.module('app', [
 
 #### Dependency
 
-This module also needs the the [wfm-signature](https://github.com/feedhenry-raincatcher/raincatcher-signature) to work properly :
+This module also needs the [wfm-signature](https://github.com/feedhenry-raincatcher/raincatcher-signature) to work properly :
 ```javascript
 angular.module('app', [
 , require('fh-wfm-signature')
